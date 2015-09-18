@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_Geocoder">Geocoder</string>
+    <string name="hint_etLocationName">Location name</string>
+    <string name="btSubmit">Submit</string>
+
+    <string name="msg_LocationNameNotFound">Location name not found</string>
+    <string name="msg_LocationNameIsEmpty">Location name is empty</string>
+</resources>
